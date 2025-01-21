@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Menglong Chen / 陈梦龙"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Menglong Chen"
 #description              : &description "personal site"
