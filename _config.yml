@@ -12,7 +12,7 @@ title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Menglong Chen"
 #description              : &description "personal site"
-url                      : https://1010353663.github.io/menglongchen.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://1010353663.github.io/menglongchen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 
