@@ -28,5 +28,5 @@ Papers
 
   📄[**ICSE 2025**](https://conf.researchr.org/home/icse-2025)
   👑[**CCF-A**](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-  📑[**PDF**](/forthcoming.html)
+  📑[**PDF**](/forthcoming)
   🛠️[**Tool**](/forthcoming)

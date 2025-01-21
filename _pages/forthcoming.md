@@ -6,5 +6,6 @@ redirect_from:
   - /forthcoming/
   - /forthcoming.html
 ---
+{% include base_path %}
 
 The content is forthcoming.
