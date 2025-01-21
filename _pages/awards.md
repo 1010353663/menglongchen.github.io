@@ -1,11 +1,12 @@
 ---
-layout: archive
+#layout: archive
 title: "Awards"
 permalink: /awards/
 author_profile: true
 redirect_from:
   - /awards/
 ---
+{% include base_path %}
 
 - <font color="#87CEFA">Outstanding undergraduate graduate</font>, Shandong Province, 2023
 - <font color="#87CEFA">National Special Prize</font>, China University Computer Competition - Network Technology Challenge, 2022
