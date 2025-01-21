@@ -20,7 +20,7 @@ Work
 
 Papers
 ===
-***(\* Corresponding author)***
+*(\* Corresponding author)*
 
 - [PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps](/menglongchen.github.io/forthcoming)
   
