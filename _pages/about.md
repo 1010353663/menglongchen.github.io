@@ -20,7 +20,7 @@ Work
 
 Papers
 ===
-- [PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps](/forthcoming)
+- [PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps](/menglongchen.github.io/forthcoming)
   
   **Menglong Chen**, Minxue Pan, Tian Tan, Yue Li
 
@@ -29,4 +29,4 @@ Papers
   📄[**ICSE 2025**](https://conf.researchr.org/home/icse-2025)
   👑[**CCF-A**](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
   📑[**PDF**](/menglongchen.github.io/forthcoming)
-  🛠️[**Tool**](/forthcoming)
+  🛠️[**Tool**](/menglongchen.github.io/forthcoming)
