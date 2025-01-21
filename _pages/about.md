@@ -16,7 +16,7 @@ Contact
 
 Work
 ===
-- 2022.11-2023.06 · Program Analysis Researcher · [Bytedance](https://www.bytedance.com/)(Intern)
+- 2022.11-2023.06 · Program Analysis Researcher · [Bytedance](https://www.bytedance.com/) (Intern)
 
 Papers
 ===
@@ -27,6 +27,6 @@ Papers
   In *Processdings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)*, Sun 27 April-Sat 3 May, 2025, Ottawa, Ontario, Canada
 
   📄[**ICSE 2025**](https://conf.researchr.org/home/icse-2025)
-  👑[**CCF-A**](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+  🌟[**CCF-A**](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
   📑[**PDF**](/menglongchen.github.io/forthcoming)
   🛠️[**Tool**](/menglongchen.github.io/forthcoming)
