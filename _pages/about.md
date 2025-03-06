@@ -30,5 +30,5 @@ Papers
 
   📄[**ICSE 2025**](https://conf.researchr.org/home/icse-2025)
   🌟[**CCF-A**](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-  📑[**PDF**](/menglongchen.github.io/forthcoming)
+  📑[**PDF**](../publications/icse2025.pdf)
   🛠️[**Tool**](/menglongchen.github.io/forthcoming)
