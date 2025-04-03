@@ -22,11 +22,11 @@ Papers
 ===
 *(\* Corresponding author)*
 
-- [PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps](/menglongchen.github.io/forthcoming)\
+- [PacDroid: A Pointer-Analysis-Centric Framework for Security Vulnerabilities in Android Apps](/menglongchen.github.io/publications/icse2025.pdf)\
   **Menglong Chen**, Tian Tan\*, Minxue Pan, Yue Li\*\
   In *Processdings of the 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)*, Sun 27 April-Sat 3 May, 2025, Ottawa, Ontario, Canada\
   🏆 **<font color="red">Best Artifact Award</font>**
   📄[**ICSE 2025**](https://conf.researchr.org/home/icse-2025)
   🌟[**CCF-A**](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-  📑[**PDF**](../publications/icse2025.pdf)
-  🛠️[**Tool**](/menglongchen.github.io/forthcoming)
+  📑[**PDF**](/menglongchen.github.io/publications/icse2025.pdf)
+  🛠️[**Tool**](https://doi.org/10.5281/zenodo.14749910)
