@@ -11,7 +11,7 @@ I am currently a first-year PhD student, supervised by [Tian Tan](https://cs.nju
 
 Contact
 ===
-- Email: 522023320008 at smail.nju.edu.cn
+- Email: 602025330005 at smail.nju.edu.cn
 - Office: Room 529, Building of Computer Science and Technology Nanjing University (Xianlin Campus), 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China.
 
 Work
