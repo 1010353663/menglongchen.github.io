@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student, supervised by [Tian Tan](https://cs.nju.edu.cn/tiantan/) in [PASCAL Research Group](https://pascal-lab.net/), [School of Computer Science](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). My research interests are focused on programming languages, particularly Android static program analysis.
+I am currently a first-year PhD student, supervised by [Tian Tan](https://cs.nju.edu.cn/tiantan/) in [PASCAL Research Group](https://pascal-lab.net/), [School of Computer Science](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). My research interests are focused on programming languages, particularly Android static program analysis.
 
 Contact
 ===
