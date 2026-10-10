@@ -30,4 +30,4 @@ Papers
   🌟[**CCF-A**](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
   📑[**PDF**](/menglongchen.github.io/publications/icse2025.pdf)
   🛠️[**Tool**](https://doi.org/10.5281/zenodo.14749910)\
-  **Available in [Tai-e](https://github.com/pascal-lab/Tai-e).** See the [documentation](https://tai-e.pascal-lab.net/docs/current/reference/en/android-analysis.html#available-taint-configurations) for details.
+  **Available in [Tai-e](https://github.com/pascal-lab/Tai-e).** See the [documentation](https://tai-e.pascal-lab.net/docs/current/reference/en/android-analysis.html) for details.
